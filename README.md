@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raelx</h1>
 <h3 align="center">A passionate system administrator from Poland</h3>
 
-- 🔭 I’m currently working on [PP-Projekt (C#)](https://github.com/ItsRaelx/pp-projekt)
-
 - 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **kontakt@raelx.pl**
