@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raelx</h1>
-<h3 align="center">A passionate system administrator from Poland</h3>
+<h3 align="center">A passionate DevOps from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsraelx&label=Profile%20views&color=0e75b6&style=flat" alt="itsraelx" /> </p>
 
-- 🔭 I’m currently working on **RAIDHost API**
+- 🔭 I’m currently working on **MCTShow.pl**
 
 - 🌱 I’m currently learning **C**
 
