@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [DiscordWhitelist](https://github.com/ItsRaelx/DiscordWhitelist)
 
-- 📫 How to reach me **kontakt@raelx.pl**
+- 📫 How to reach me **kontakt@itsraelx.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
