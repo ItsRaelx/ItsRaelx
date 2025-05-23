@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsraelx&label=Profile%20views&color=0e75b6&style=flat" alt="itsraelx" /> </p>
 
-- 🔭 I’m currently working on **MCTShow.pl**
+- 🔭 I’m currently working on **RaidVM.com**
 
 - 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with [DiscordWhitelist](https://github.com/ItsRaelx/DiscordWhitelist)
 
-- 📫 How to reach me **kontakt@itsraelx.com**
+- 📫 How to reach me **d.iwanski@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
